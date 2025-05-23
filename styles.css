@@ -1,0 +1,16 @@
+.header{
+    background-color:saddlebrown;
+    text-align: center;
+    color: white;
+    padding: 90px;
+    
+}
+.image{
+    background-color:lightgrey;
+    height: 300px;;
+    width: 400px;
+    padding: auto;
+    align-items: center;
+    justify-content:center;
+    display: flex;
+}
